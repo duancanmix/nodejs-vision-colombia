@@ -73,10 +73,10 @@ products(app, upload);
 ordersDeliverySocket(io);
 
 /*server.listen(3000, '192.168.102.193' || 'localhost', function() {
-    console.log('Aplicacion de NodeJS ' + port + ' Iniciada...')
+ *   console.log('Aplicacion de NodeJS ' + port + ' Iniciada...')
 });*/
-server.listen(port, function() {
-    console.log('listening on port' + port)
+server.listen(port,function() {
+    console.log('listeing on port ' + port)
 });
 
 // ERROR HANDLER

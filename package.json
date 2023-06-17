@@ -12,7 +12,7 @@
     "delivery",
     "nodejs"
   ],
-  "author": "JOnathan Goyes",
+  "author": "Andres Rodriguez",
   "license": "MIT",
   "dependencies": {
     "@google-cloud/storage": "^5.14.8",
